@@ -45,7 +45,7 @@ vignettes/*.pdf
 rsconnect/
 
 # Data folders
-data/
+#data/
 data-raw/
 
 # Data files
