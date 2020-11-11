@@ -46,7 +46,10 @@ rsconnect/
 
 # Data folders
 #data/
+data/
 data-raw/
+data_cs230/
+glove/
 
 # Data files
 *.csv
