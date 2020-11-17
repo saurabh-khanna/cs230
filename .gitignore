@@ -66,4 +66,5 @@ glove/
 *.stata
 *.tsv
 *.xpt
+*.png
 .Rproj.user
